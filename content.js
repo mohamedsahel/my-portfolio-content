@@ -13,35 +13,57 @@
   about: {
     title: 'about me',
     description:
-      'Creative Front End Developer with over 2 years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.'
+      'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry organizations and individuals. Highly-skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.'
   },
   projects: {
     title: 'projects',
-    subtitle: 'Creative Front End Developer with over 2 years of experience providing high-impact.',
+    subtitle: 'This is a hand picked list of projects that I have personaly designed, devloped and deployed to production',
     list: [
       {
-        name: 'Project Name',
+        name: 'SalesCovers',
         description:
-          'Creative Front End Developer with over 2 years of experience providing high-impact web solutions for diverse industry organizations',
-        imageUrl: 'https://i.imgur.com/6cOScEH.png?1',
-        githubUrl: 'https://github.com/mohamedsahel/qat',
-        projectUrl: 'https://qat-cli.vercel.com'
+          'Business service website for book cover design team, with integration of 3rd party APIs for payments processing, emails and orders storage',
+        imageUrl: 'https://i.imgur.com/HJmf2Fu.jpg?1',
+        projectUrl: 'https://salescovers.com'
       },
       {
-        name: 'Project Name',
+        name: 'Earfun',
         description:
-          'Creative Front End Developer with over 2 years of experience providing high-impact web solutions for diverse industry organizations',
-        imageUrl: 'https://i.imgur.com/6cOScEH.png?1',
-        githubUrl: 'https://github.com/mohamedsahel/qat',
-        projectUrl: 'https://qat-cli.vercel.com'
+          'Full features headphones single page online store application with implementation of cart & checkout process + dark mode support',
+        imageUrl: 'https://i.imgur.com/faHafHi.jpg?1',
+        githubUrl: 'https://github.com/mohamedsahel/earfun',
+        projectUrl: 'https://earfun.herokuapp.com'
       },
       {
-        name: 'Project Name',
+        name: 'Weathi',
         description:
-          'Creative Front End Developer with over 2 years of experience providing high-impact web solutions for diverse industry organizations',
-        imageUrl: 'https://i.imgur.com/6cOScEH.png?1',
+          'Beautiful look single page weather application, using Google maps and openweather APIs',
+        imageUrl: 'https://i.imgur.com/A0zVl4U.png?1',
+        githubUrl: 'https://github.com/mohamedsahel/weathi',
+        projectUrl: 'https://weathi.herokuapp.com'
+      },
+      {
+        name: 'Portfio',
+        description:
+          'Well Designed open source personal portfolio website with interactive animations and dark mode support',
+        imageUrl: 'https://i.imgur.com/oc9awi2.jpg?1',
+        githubUrl: 'https://github.com/mohamedsahel/portfio',
+        projectUrl: 'https://portfio.vercel.app'
+      },
+       {
+        name: 'Roomz',
+        description:
+          'Modern, real-time and well structured chat room back-end api with Implementation of advanced functionalities: authentication - authorization - database management and real time connections',
+        imageUrl: 'https://i.imgur.com/Xcjjrkv.jpg?1',
+        githubUrl: 'https://github.com/mohamedsahel/roomz'
+      },
+      {
+        name: 'Qat',
+        description:
+          'Open source cli tool that help developers automate workflow tasks using custom cli commands without reiventing another cli tool, “Qat stands for Quickly Automate Tasks”',
+        imageUrl: 'https://i.imgur.com/ubmCYxz.jpg?1',
         githubUrl: 'https://github.com/mohamedsahel/qat',
-        projectUrl: 'https://qat-cli.vercel.com'
+        projectUrl: 'https://qat-cli.vercel.app'
       }
     ]
   },
