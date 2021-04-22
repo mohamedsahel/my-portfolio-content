@@ -16,44 +16,20 @@
       'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry organizations and individuals. Highly-skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.',
     skills: [
       {
-        groupName: 'Languages',
-        list: ['HTML', 'Javascript', 'Typescript']
+        groupName: 'Languages & Frameworks',
+        list: ['HTML', 'Javascript', 'Typescript', 'Next.js', 'Gatsby.js', 'Node.js']
       },
       {
-        groupName: 'Frameworks',
-        list: ['Next.js', 'Gatsby.js', 'Node.js']
-      },
-      {
-        groupName: 'UI Libraries',
-        list: ['React', 'Tailwind', 'Chakra UI', 'Bootstrap', '...']
-      },
-      {
-        groupName: 'Backend Libraries',
-        list: ['Express', 'Apollo', 'Mongoose', '...']
-      },
-      {
-        groupName: 'Cloud Platforms',
-        list: ['Vercel', 'Heroku', 'Google Cloud Platfom']
-      },
-      {
-        groupName: 'CMS',
-        list: ['Strapi', 'Sanity', 'Headless Wordpress']
-      },
-      {
-        groupName: 'Payment Gateways',
-        list: ['Stripe', 'Paypal']
-      },
-      {
-        groupName: 'UX - UI',
-        list: ['Adobe XD', 'Figma']
+        groupName: 'Top Libraries',
+        list: ['React', 'Tailwind', 'Chakra UI', 'Express', 'Apollo', 'Mongoose']
       },
       {
         groupName: 'Third Party Tools',
-        list: ['Firebase', 'Airtable', 'Mailjet']
+        list: ['Firebase', 'Airtable', 'Mailjet', 'Stripe', 'Paypal']
       },
       {
         groupName: 'Other Skills',
-        list: ['CSS', 'Graphql', 'Prisma', 'Git']
+        list: ['CSS', 'Graphql', 'Prisma', 'Git', 'Adobe XD', 'Figma']
       },
     ]
   },
