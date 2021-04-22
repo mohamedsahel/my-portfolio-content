@@ -13,7 +13,7 @@
   about: {
     title: 'about me',
     description:
-      'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry organizations and individuals. Highly-skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.',
+      'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry businesses and individuals. Highly skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.',
     skills: [
       {
         groupName: 'Languages & Frameworks',
@@ -35,12 +35,12 @@
   },
   projects: {
     title: 'projects',
-    subtitle: 'This is a hand picked list of projects that I have personaly designed, developed and deployed to production',
+    subtitle: 'This is a hand-picked list of projects that I have personally designed, developed and deployed to production',
     list: [
       {
         name: 'SalesCovers',
         description:
-          'Business service website for book cover design team, with integration of 3rd party APIs for payments processing, emails and orders storage',
+          'Business service website for a team of book cover designers, with the integration of 3rd party APIs for payments processing, emails and orders storage',
         imageUrl: 'https://i.imgur.com/HJmf2Fu.jpg?1',
         projectUrl: 'https://salescovers.com'
       },
@@ -55,7 +55,7 @@
       {
         name: 'Weathi',
         description:
-          'Beautiful look single page weather application, using Google maps and openweather APIs',
+          'Beautiful look single page weather application, using Google maps and OpenWeather APIs',
         imageUrl: 'https://i.imgur.com/A0zVl4U.png?1',
         githubUrl: 'https://github.com/mohamedsahel/weathi',
         projectUrl: 'https://weathi.herokuapp.com'
@@ -71,14 +71,14 @@
        {
         name: 'Roomz',
         description:
-          'Modern, real-time and well structured chat room back-end api with Implementation of advanced functionalities: authentication - authorization - database management and real time connections',
+          'Modern, real-time and well-structured chat room back-end API with Implementation of advanced functionalities: authentication - authorization - database management and real-time connections',
         imageUrl: 'https://i.imgur.com/Xcjjrkv.jpg?1',
         githubUrl: 'https://github.com/mohamedsahel/roomz'
       },
       {
         name: 'Qat',
         description:
-          'Open source cli tool that help developers automate workflow tasks using custom cli commands without reiventing another cli tool, “Qat stands for Quickly Automate Tasks”',
+          'Open source CLI tool that helps developers automate workflow tasks using custom CLI commands without reinventing another CLI tool, “Qat stands for Quickly Automate Tasks”',
         imageUrl: 'https://i.imgur.com/ubmCYxz.jpg?1',
         githubUrl: 'https://github.com/mohamedsahel/qat',
         projectUrl: 'https://qat-cli.vercel.app'
@@ -87,6 +87,7 @@
   },
   testimonials: {
     title: 'testimonials',
+    duration: 15000, 
     list: [
       {
         author: 'Paul',
@@ -111,6 +112,6 @@
   },
   contact: {
     title: 'contact',
-    subtitle: 'Have a question, or project idea, please feel free to let your message'
+    subtitle: 'Have a question, or project idea, Please feel free to let your message, I reply in less than 24h 😉'
   }
 }
