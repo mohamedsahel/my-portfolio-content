@@ -1,7 +1,7 @@
 {
   profile: {
     name: 'Mohamed Sahel',
-    job: 'React/Node Developer',
+    job: 'Web Developer',
     imageUrl: 'https://i.imgur.com/q5N8V8g.jpg',
     social: {
       github: 'https://github.com/mohamedsahel',
@@ -17,7 +17,7 @@
   },
   projects: {
     title: 'projects',
-    subtitle: 'This is a hand picked list of projects that I have personaly designed, devloped and deployed to production',
+    subtitle: 'This is a hand picked list of projects that I have personaly designed, developed and deployed to production',
     list: [
       {
         name: 'SalesCovers',
@@ -93,6 +93,6 @@
   },
   contact: {
     title: 'contact',
-    subtitle: 'this is just an subtiltefor the contact section'
+    subtitle: 'Have a question, or project idea, please feel free to let your message'
   }
 }
