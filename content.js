@@ -46,7 +46,7 @@
         name: 'Portfio',
         description:
           'Well Designed open source personal portfolio website with interactive animations and dark mode support',
-        imageUrl: 'https://i.imgur.com/oc9awi2.jpg?1',
+        imageUrl: 'https://i.imgur.com/7eya5ss.jpg?1',
         githubUrl: 'https://github.com/mohamedsahel/portfio',
         projectUrl: 'https://portfio.vercel.app'
       },
