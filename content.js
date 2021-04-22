@@ -13,7 +13,45 @@
   about: {
     title: 'about me',
     description:
-      'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry organizations and individuals. Highly-skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.'
+      'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry organizations and individuals. Highly-skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.',
+    skills: [
+      {
+        groupName: 'Languages',
+        list: ['HTML', 'Javascript', 'Typescript']
+      },
+      {
+        groupName: 'Frameworks',
+        list: ['Next.js', 'Node.js']
+      },
+      {
+        groupName: 'UI Libraries',
+        list: ['React', 'Tailwind', 'Chakra UI', 'Bootstrap', '...']
+      },
+      {
+        groupName: 'Backend Libraries',
+        list: ['Express', 'Mongoose', '...']
+      },
+      {
+        groupName: 'Cloud Platforms',
+        list: ['Google Cloud Platfom', 'AWS']
+      },
+      {
+        groupName: 'Payment Gateways',
+        list: ['Stripe', 'Paypal']
+      },
+      {
+        groupName: 'Version Control System',
+        list: ['Git']
+      },
+      {
+        groupName: 'UX - UI',
+        list: ['Adobe XD', 'Figma']
+      },
+      {
+        groupName: 'Other Skills',
+        list: ['Graphql', 'Prisma']
+      },
+    ]
   },
   projects: {
     title: 'projects',
