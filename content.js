@@ -21,7 +21,7 @@
       },
       {
         groupName: 'Frameworks',
-        list: ['Next.js', 'Node.js']
+        list: ['Next.js', 'Gatsby.js', 'Node.js']
       },
       {
         groupName: 'UI Libraries',
@@ -29,27 +29,31 @@
       },
       {
         groupName: 'Backend Libraries',
-        list: ['Express', 'Mongoose', '...']
+        list: ['Express', 'Apollo', 'Mongoose', '...']
       },
       {
         groupName: 'Cloud Platforms',
-        list: ['Google Cloud Platfom', 'AWS']
+        list: ['Vercel', 'Heroku', 'Google Cloud Platfom']
+      },
+      {
+        groupName: 'CMS',
+        list: ['Strapi', 'Sanity', 'Headless Wordpress']
       },
       {
         groupName: 'Payment Gateways',
         list: ['Stripe', 'Paypal']
       },
       {
-        groupName: 'Version Control System',
-        list: ['Git']
-      },
-      {
         groupName: 'UX - UI',
         list: ['Adobe XD', 'Figma']
       },
       {
+        groupName: 'Third Party Tools',
+        list: ['Firebase', 'Airtable', 'Mailjet']
+      },
+      {
         groupName: 'Other Skills',
-        list: ['Graphql', 'Prisma']
+        list: ['CSS', 'Graphql', 'Prisma', 'Git']
       },
     ]
   },
