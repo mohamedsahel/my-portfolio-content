@@ -1,7 +1,7 @@
 {
   profile: {
     name: 'Mohamed Sahel',
-    job: 'Web Developer',
+    job: 'Full-Stack Web Developer',
     imageUrl: 'https://i.imgur.com/q5N8V8g.jpg',
     social: {
       github: 'https://github.com/mohamedsahel',
@@ -13,7 +13,7 @@
   about: {
     title: 'about me',
     description:
-      'Creative Web Developer with over 2+ years of experience providing high-impact web solutions for diverse industry businesses and individuals. Highly skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.',
+      'Creative Full-Stack web developer, adept in all stages of advanced web development, Highly Skilled in user interface, developing, and debugging processes, designed and built multiple web-based applications and internal tools, incorporating a range of technologies and programming languages.'
     skills: [
       {
         groupName: 'Languages & Frameworks',
