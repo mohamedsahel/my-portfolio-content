@@ -1,5 +1,5 @@
 {
-   "profile":{
+   "profile": {
       "name": "Mohamed Sahel",
       "job": "Full-Stack Web Developer",
       "imageUrl": "https://i.imgur.com/q5N8V8g.jpg",
@@ -12,7 +12,8 @@
    },
    "about": {
       "title": "about me",
-      "description": "Creative Full-Stack web developer, adept in all stages of advanced web development, Highly Skilled in user interface, developing, and debugging processes, designed and built multiple web-based applications and internal tools, incorporating a range of technologies and programming languages.""skills":[
+      "description": "Creative Full-Stack web developer, adept in all stages of advanced web development, Highly Skilled in user interface, developing, and debugging processes, designed and built multiple web-based applications and internal tools, incorporating a range of technologies and programming languages.",
+      "skills":[
          {
             "groupName": "Languages & Frameworks",
             "list": [
