@@ -64,6 +64,18 @@
       "subtitle": "This is a hand-picked list of projects that I have personally designed, developed and deployed to production",
       "list":[
          {
+            "name": "Dev & Style",
+            "description": "A clothing brand store for developers who like to show off their dev passion through fashion.",
+            "imageUrl": "https://i.imgur.com/nahh4Yd.png?1",
+            "projectUrl": "https://devandstyle.com"
+         },
+         {
+            "name": "ReplyGrowth",
+            "description": "Save time and money and start publishing content to different social platforms, from one place, in one click",
+            "imageUrl": "https://i.imgur.com/Ya0kKYa.png?1",
+            "projectUrl": "https://replygrowth.com"
+         },
+         {
             "name": "SalesCovers",
             "description": "Business service website for a team of book cover designers, with the integration of 3rd party APIs for payments processing, emails and orders storage",
             "imageUrl": "https://i.imgur.com/HJmf2Fu.jpg?1",
